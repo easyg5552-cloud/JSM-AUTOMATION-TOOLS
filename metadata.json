@@ -1,0 +1,5 @@
+{
+  "name": "VidGen AI Studio",
+  "description": "A universal video automation tool that converts text scripts into fully produced videos using AI for script analysis, image generation, and speech synthesis.",
+  "requestFramePermissions": []
+}
